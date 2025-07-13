@@ -1,0 +1,11 @@
+name = "a new modpack 2"
+creator = "TenBitMelon"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e83f0697d35a592c064d85adf0270a926271fef4e0a8dcc1be2bf9fb0303d29a"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
